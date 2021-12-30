@@ -7,8 +7,6 @@ user - friendly solutions effectively and efficiently.<br/>
 Have 8 years of experience as a Full Stack Developer, specialized in Modern JS and PHP frameworks.<br/>
 Love to collaborate with team actively, eager to take a challenge with new technologies and Having creative collaboration.
 
-
-  <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
   
 - 💼 Do reach, [email](mailto:vugicguran@gmail.com) :)
 - <a href="https://www.linkedin.com/in/guran-vugic-" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="guran-vugic" height="20" width="20"/></a>    Connect via Linkedin!
