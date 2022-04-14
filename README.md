@@ -2,10 +2,16 @@
 
 <br />
 
-Hi! I am an Experienced and detail - oriented Web & Mobile App Developer with a knack for conceptualizing an delivering elegant,
-user - friendly solutions effectively and efficiently.<br/>
-Have 8 years of experience as a Full Stack Developer, specialized in Modern JS and PHP frameworks.<br/>
-Love to collaborate with team actively, eager to take a challenge with new technologies and Having creative collaboration.
+Summarizing my experience and skills, I have worked as a Software Engineer with more than 10 years of solid experience in IT, focusing principally on full-stack development using Javascript, Typescript, PHP, JavaScript frameworks such as React, Vue, Angular, Node, Next.js, Nuxt.js, Laravel and AWS, Firebase and etc.<br><br>
+
+My ambition is to apply my versatility in creating lasting solutions for challenges ahead.<br>
+As a Full Stack developer my focus is to continually learn, improve and hone aspects of my profession and experience.<br><br>
+
+I am a Full-Stack Software Engineer with a background in Control Systems Engineering who is passionate about creating user-friendly applications by writing clean, efficient, and maintainable code. <br>
+I am looking forward to joining an innovative, dynamic company where I can utilize my strong problem solving and collaborative skills to build meaningful and impactful products.<br><br>
+
+When I'm not coding, I enjoy traveling and immersing myself in the many beautiful cultures of the world. <br>
+I also love playing guitar, trying different cuisines, and, of course, spending time with my beautiful wife and fur baby, Leo.
 
   
 - 💼 Do reach, [email](mailto:vugicguran@gmail.com) :)
